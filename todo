@@ -1,0 +1,18 @@
+server: 
+    - connect to mongodb
+    - build schema for user, product, order
+    - build routes
+    - build controllers
+    - build middleware
+    - build error handling
+    - build authentication
+    - build authorization
+    
+
+client:
+    - build components
+    - build routes
+    - build services
+    - build error handling
+    - build authentication
+    - build authorization
